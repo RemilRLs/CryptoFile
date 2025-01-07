@@ -1,6 +1,6 @@
 # CryptoFile
 
-Javacard project that interacts with a smart card using APDU. l. It allows users to perform various operations on the smart card, such as encrypting and decrypting files, storing files, retrieving files and updating the encryption key.
+Javacard project that interacts with a smart card using APDU. It allows users to perform various operations on the smart card, such as encrypting and decrypting files, storing files, retrieving files and updating the encryption key.
 
 
 
